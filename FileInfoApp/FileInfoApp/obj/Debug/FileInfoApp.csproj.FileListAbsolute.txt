@@ -1,0 +1,6 @@
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo\Navisworks_Tutorial\FileInfoApp\FileInfoApp\obj\Debug\FileInfoApp.csprojAssemblyReference.cache
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo\Navisworks_Tutorial\FileInfoApp\FileInfoApp\obj\Debug\FileInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo\Navisworks_Tutorial\FileInfoApp\FileInfoApp\bin\Debug\FileInfoApp.dll
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo\Navisworks_Tutorial\FileInfoApp\FileInfoApp\bin\Debug\FileInfoApp.pdb
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo\Navisworks_Tutorial\FileInfoApp\FileInfoApp\obj\Debug\FileInfoApp.dll
+C:\Users\mrmin\OneDrive\Desktop\TwentyTwo\Navisworks_Tutorial\FileInfoApp\FileInfoApp\obj\Debug\FileInfoApp.pdb
